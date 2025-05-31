@@ -1,7 +1,7 @@
 # Rentfaster_Regression_Project
 The purpose of this notebook is to develop a regression model that will accurately predict the price the of rental properties across Canada.
 Links used: https://www.kaggle.com/datasets/sergiygavrylov/25000-canadian-rental-housing-market-june-2024
-https://www.rentfaster.ca/
+Links used: https://www.rentfaster.ca/
 
 ## Data and Feature Engineering:
 Data was cleaned and prepared by removing unnecessary columns, condensing data, and removing non-applicable data.
